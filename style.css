@@ -63,14 +63,23 @@ section {
   padding-right: 150px;
   font-size: 15px;
   margin-right: 80px;
+  margin-bottom: 70px;
 }
 .banner-heading-right {
-  font-size: 40px;
+  font-size: 30px;
   padding-top: 100px;
   padding-left: 70px;
   font-weight: 700;
   color: gray;
 }
+.contact {
+  margin-left: 70px;
+  margin-right: 150px;
+}
 .aboutus {
   background-image: url(images/7.png);
+  background-repeat: no-repeat;
+}
+.recipies {
+  text-align: center;
 }
