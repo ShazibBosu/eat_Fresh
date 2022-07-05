@@ -17,7 +17,7 @@ h1 {
 }
 
 .banner-image {
-  width: 400px;
+  width: 450px;
   height: 500px;
   /* padding-top: 27%; */
   /* padding-left: 40%; */
@@ -53,6 +53,24 @@ section {
 }
 
 .banner-right {
-  width: 400px;
-  height: 500px;
+  width: 280px;
+  height: 450px;
+  margin-top: 80px;
+  margin-left: 150px;
+}
+.banner-para-right {
+  padding-left: 70px;
+  padding-right: 150px;
+  font-size: 15px;
+  margin-right: 80px;
+}
+.banner-heading-right {
+  font-size: 40px;
+  padding-top: 100px;
+  padding-left: 70px;
+  font-weight: 700;
+  color: gray;
+}
+.aboutus {
+  background-image: url(images/7.png);
 }
